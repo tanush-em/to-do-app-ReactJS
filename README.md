@@ -2,7 +2,7 @@
 
 Welcome to the **To-Do List App**, a simple and interactive React-based task management application. This project demonstrates essential React concepts like component state management, event handling, and array operations.
 
-![To-Do List App Preview](to-do-app/public/sample.png)
+![To-Do List App Preview](./public/sample.png)
 
 ## Features
 
@@ -85,7 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 Enjoy using and building upon this To-Do List App! If you have any questions or suggestions, please reach out or submit an issue on the GitHub repository.
 
-Happy coding!
-
-[![Stars](https://img.shields.io/github/stars/tanush-em/todo-list-app?style=social)](https://github.com/yourusername/todo-list-app) [![Forks](https://img.shields.io/github/forks/tanush-em/todo-list-app?style=social)](https://github.com/yourusername/todo-list-app/fork)
 
